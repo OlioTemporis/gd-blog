@@ -4,19 +4,17 @@ import BaseLayout from "./BaseLayout.astro";
 ---
 
 <BaseLayout title={frontmatter.title}>
-    <meta charset="utf-8" />
-    <p>{frontmatter.pubDate.toString().slice(0,10)}</p>
-    <p><em>{frontmatter.description}</em></p>
-    <p>Written by: {frontmatter.author}</p>
-    <img src={frontmatter.image.url} width="300" alt={frontmatter.image.alt} />
     <article class="prose lg:prose-xl mx-auto my-8">
-        <div class="tags">
+      <h1>{frontmatter.title}</h1>
+      <img src={frontmatter.image.url} width={500} alt={frontmatter.image.alt} />
+      <p class="text-sm">{frontmatter.description}</p>
+      <div class="tags">
             {frontmatter.tags.map((tag: string) => (
                 <p class="tag"><a href={`/tags/${tag}`}>{tag}</a></p>
             ))}
-        </div>
-        <slot />
-  </div>
+      </div>
+      <slot />
+      <p class="text-sm text-right">Written by: {frontmatter.author} on {frontmatter.pubDate.toString().slice(0,10)}</p>
     </article>
 </BaseLayout>
 

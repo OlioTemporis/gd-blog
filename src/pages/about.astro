@@ -1,7 +1,9 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+const pageTitle = "About Page";
 ---
 
-	<BaseLayout title="About Page">
-		<p>Welcome to your new Astro about page.</p>
+	<BaseLayout title={pageTitle}>
+		<h1 class="text-4xl font-bold py-4 mt-6">{pageTitle}</h1>
+		<p>This is the about page of the Astro site.</p>
 	</BaseLayout>
