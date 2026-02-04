@@ -12,6 +12,8 @@ tags: ["elements", "neophyte"]
 
 There are four elements, all of which are unified by the fifth known as Spirit or Aethyr or Akasha. Everything that is and does is due to these.
 
+The elements as we experience them in our day-to-day lives are represented by the princesses in the Disk Suit. Therefore, Princess of Cups would be the water we drink, as Princess of Wands would be the fire cooking our food, and the Princess of Swords the wind blowing through our hair.
+
 Fire has the qualities of heat and dryness; water of cold and moisture; air of heat and moisture; earth of cold and dryness.
 
 **Fire** is the active, masculine, quick, vitalizing energy. According to alchemists, it is the agent of transmutation because by it change in matter is achieved. Aside from its obvious destructive effects, it is also considered as a symbol for regeneration, for Aries leaps forth from the frost. The Sanskrit term for fire is Tejas, which is represented by an upright, red triangle. In the H.O.G.D., the grade of Philosophus 4=7 (Netzach) works on this element within himself.
@@ -22,7 +24,7 @@ Fire has the qualities of heat and dryness; water of cold and moisture; air of h
 
 <figure class="max-w-md">
   <img class="h-auto max-w-full rounded-base" src="https://i.ibb.co/yn7vh9cw/knight-wands.png" alt="knight of wands">
-  <figcaption class="mt-2 text-sm text-center text-body">Knight of Wands, Fire of Fire, Tejas of Tejas</figcaption>
+  <figcaption class="mt-2 text-sm text-center text-body">Knight of Wands, Tejas of Tejas</figcaption>
 </figure>
 
 <blockquote class="text-lg italic tracking-tigh">
@@ -39,7 +41,7 @@ Fire of fire is the LI (51st) Hexagram, Kan or zhèn, 'thunder'. This hexagram s
 
 <figure class="max-w-md">
   <img class="h-auto max-w-full rounded-base" src="https://i.ibb.co/gLPS0qyG/queen-cups.png" alt="queen of cups">
-  <figcaption class="mt-2 text-sm text-center text-body">Queen of Cups, Water of Water, Apas of Apas</figcaption>
+  <figcaption class="mt-2 text-sm text-center text-body">Queen of Cups, Apas of Apas</figcaption>
 </figure>
 
 <blockquote class="text-lg italic tracking-tigh">
@@ -54,7 +56,7 @@ Fire of fire is the LI (51st) Hexagram, Kan or zhèn, 'thunder'. This hexagram s
 
 <figure class="max-w-md">
   <img class="h-auto max-w-full rounded-base" src="https://i.ibb.co/Q3SdbLWr/prince-swords.png" alt="prince of swords">
-  <figcaption class="mt-2 text-sm text-center text-body">Prince of Swords, Air of Air, Vayu of Vayu</figcaption>
+  <figcaption class="mt-2 text-sm text-center text-body">Prince of Swords, Vayu of Vayu</figcaption>
 </figure>
 
 <blockquote class="text-lg italic tracking-tigh">
@@ -69,7 +71,7 @@ Fire of fire is the LI (51st) Hexagram, Kan or zhèn, 'thunder'. This hexagram s
 
 <figure class="max-w-md">
   <img class="h-auto max-w-full rounded-base" src="https://i.ibb.co/V0fnT2Fw/princess-disks.png" alt="princess of disks">
-  <figcaption class="mt-2 text-sm text-center text-body">Princess of Disks, Earth of Earth, Prithivi of Prithvi</figcaption>
+  <figcaption class="mt-2 text-sm text-center text-body">Princess of Disks, Prithivi of Prithvi</figcaption>
 </figure>
 
 <blockquote class="text-lg italic tracking-tigh">

@@ -25,3 +25,11 @@ You are expected to know these for each planet.
 7. Saturn represents the urge for security and safety. Keyword: THE TEACHER. The Greater Malefic rules over organization, discipline, responsibility, structure, limits, tradition, orthodoxy, aging, wisdom. Its action is slow but ENDURING.
 
 ## The New Planets
+
+Since these planets take many years to orbit the Sun, their effect is more applicable to eras rather than individual life-cycles. Although not a part of the original curriculum, these planets offer more data points for the modern student to add to his cosmic map of patterns.
+
+**Uranus** represents the will to freedom and 'divine discontent'. Its keyword: THE AWAKENER. Uranus rules over science, electricity, lightening, inventions, discoveries, magic, the occult, and genius. Its essence is unorthodox, rebellious, eccentric, and individualistic. Considered, the upper octave of Mercury, its action is VIOLENTLY EXPLOSIVE. Uranus is assigned to The Fool, Aleph.
+
+**Neptune** represents the will to spiritual ascension or mere escapism. Its keyword: INTUITION. It rules over all liquid things, the stage, movies and tv, dreams, illusion, the mystical. It is associated with mystery, the intangible, fragrances, drugs, hypnosis, and sleep-walking. Being the upper octave of Venus, its action is SUBTLE and sometimes INSIDIOUS. Neptune is assigned to The Hanged Man, Mem.
+
+**Pluto** represents fusion and the will to destroy or reform. Its keyword: TRANSFORMATION. It rules over all which is hidden or secret, like the subconscious, and over replication, generation, degeneration, rejuvenation, reorganization, phobias, obsessions, etc. Being the higher octave of Mars, its action is SLOW yet INESCAPABLE. Pluto is assigned to Judgement, Shin.
