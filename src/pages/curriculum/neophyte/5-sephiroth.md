@@ -16,15 +16,15 @@ The Tree of Life is a glyph that depicts how the Universe is structured, and by 
 
 The Middle Pillar indicates the principle of balance in nature; the Left the principle of passivity; the Right the principle of activity.
 
-- Left Pillar = anima, neschamah, subconsciousness, Yin, Salt, Water, Tamas (passivity), Mem, Ida
-- Middle Pillar = the Tao, Mercury, Air, Sattva (Equilibrium), Aleph, Sushumna
-- Right Pillar = animus, chiah, consciousness, Yang, Sulphur, Fire, Rajas (activity), Shin, Pingala
+- Left Pillar = anima, neschamah, subconsciousness, Yin, Salt, Water, Tamas (passivity), Mem, Ida, AVB
+- Middle Pillar = the Tao, Mercury, Air, Sattva (Equilibrium), Aleph, Sushumna, AVR
+- Right Pillar = animus, chiah, consciousness, Yang, Sulphur, Fire, Rajas (activity), Shin, Pingala, AVD
 
 ## The Sephiroth
 
 Note: The images are very useful anthropomorphic characterisations of the
 Sephiroth, and were used by the Golden Dawn for meditation, amongst other
-things.
+things. Therefore it is recommended to construct a memory palace with ten spots to accomodate each one. Make sure while you are in the grade of neophyte that you constantly meditate upon these and note down in your magical record any insights.
 
 1. Kether - SOURCE, THE ADMIRABLE or HIDDEN INTELLIGENCE, THE FIRST MOTION, symbols: a crown, a point, a swastika. Image: Ancient bearded man seen in profile.
 2. Chokmah - SUPERNAL FATHER, THE ILLUMINATING INTELLIGENCE, THE ZODIAC, symbols: the line, phallus, Yod. Image: A bearded male figure.
